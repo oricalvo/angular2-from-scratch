@@ -3,3 +3,4 @@ node_modules
 dist 
 app/*.js 
 app/*.js.map 
+yarn.lock
